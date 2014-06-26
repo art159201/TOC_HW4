@@ -11,7 +11,7 @@ public class TocHw4
 {
 	
 	
-	public static String road(String t)
+	public static String road(String t)  //return road only
 	{
 		if(t.contains("路"))
 		{
